@@ -1,0 +1,6 @@
+# Schema Migrations
+
+table_storage:
+    table_name: migration_versions
+migrations_paths:
+    'DoctrineMigrations\Schema': 'migrations/Schema'

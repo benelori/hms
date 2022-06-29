@@ -1,0 +1,6 @@
+# Data Migrations
+
+table_storage:
+    table_name: migration_versions_data
+migrations_paths:
+    'DoctrineMigrations\Data': 'migrations/Data'

@@ -1,0 +1,6 @@
+# Local Only Data Migrations
+
+table_storage:
+    table_name: migration_versions_data_local
+migrations_paths:
+    'DoctrineMigrations\DataLocal': 'migrations/DataLocal'

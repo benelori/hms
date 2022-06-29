@@ -1,0 +1,6 @@
+# Test Only Data Migrations
+
+table_storage:
+    table_name: migration_versions_data_test
+migrations_paths:
+    'DoctrineMigrations\DataTest': 'migrations/DataTest'
